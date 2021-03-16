@@ -5,7 +5,7 @@ The process can be thought this way:
   2. 2.taking input form 1st player.
   3. Check  if input is valid.
   4. Check if game is still going. Anybody wins or its a tie??
-      a. Check for row
-      b. check for column
-      c. check for diagonal
+      a) Check for row
+      b) check for column
+      c) check for diagonal
   5. If game is stil going then switch player.
