@@ -10,3 +10,4 @@ The process can be thought this way:
       c) check for diagonal
   5. If game is stil going then switch player.
   6. Thank you
+  7. Okay
